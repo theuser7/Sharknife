@@ -1,4 +1,4 @@
-from scapy.all import sniff,TCP,UDP,ICMP,IP,ARP,Ether,Dot11Deauth
+from scapy.all import sniff,TCP,UDP,ICMP,IP,ARP,Dot11Deauth
 from time import time,ctime
 time = ctime(time())
 
