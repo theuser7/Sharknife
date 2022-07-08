@@ -10,4 +10,7 @@ wifi new connections detection
 tcp syn detection
 
 tcp fin detection
+
+udp detection
+
 ...
