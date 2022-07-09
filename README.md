@@ -5,7 +5,7 @@ ping detection
 
 wifi deauthentication detection
 
-wifi new connections detection
+new connections detection
 
 tcp syn detection
 
