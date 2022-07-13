@@ -1,6 +1,4 @@
 # Sharknife
-scapy attack detection
-
 ping detection
 
 wifi deauthentication detection
@@ -12,5 +10,3 @@ tcp syn detection
 tcp fin detection
 
 udp detection
-
-...
